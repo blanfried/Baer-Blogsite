@@ -1,18 +1,18 @@
-<!-- ---
+---
 # If posted on same day, change time. If same time and same day, sorted by title (alphabetically and numerically)
-title: "15"
-date: 2022-04-15T10:07:47+06:00
+title: "6"
+date: 2022-04-06T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-3.jpg"
+image: "images/post/post-1.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Language"
+  - "Story"
 tags:
   - "Language"
   - "Culture"
@@ -21,7 +21,7 @@ tags:
   - "Fun"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 # Heading 1
@@ -165,4 +165,4 @@ Markdown | Less | Pretty
 
 ##### Youtube video
 
-{{< youtube C0DPdy98e4c >}} -->
+{{< youtube C0DPdy98e4c >}}

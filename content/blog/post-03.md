@@ -1,23 +1,24 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+# If posted on same day, change time. If same time and same day, sorted by title (alphabetically and numerically)
+title: "3"
+date: 2022-04-03T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-2.jpg"
+image: "images/post/post-3.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "Travel"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "Language"
+  - "Culture"
+  - "Europe"
+  - "Travel"
+  - "Fun"
 
 # post type
 type: "post"
