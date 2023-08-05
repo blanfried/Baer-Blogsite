@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
+baseURL = "https://baerlanfried.com"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "Welcome To | Baer Blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -106,7 +106,8 @@ enable = true
 enable = true
 title = "Join Our Newsletter"
 content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
-
+mailchimpFormUrl = "https://gmail.us17.list-manage.com/subscribe/post?u=cf2d0e948dfb7dd38e3061fff&amp;id=d7415c1f96&amp;f_id=005967e0f0"
+mailchimpFormKey = "b_cf2d0e948dfb7dd38e3061fff_d7415c1f96"
 
 # cookies
 [params.cookies]
@@ -115,6 +116,11 @@ expire_days = 2
 
 
 ############################# social site ########################
+[[params.social]]
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UC9l_27z0J81ZiwOoc_-uQGg"
+
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
@@ -129,3 +135,8 @@ link = "https://www.linkedin.com/in/baer-lanfried-488ab61aa/"
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/blanfried"
+
+[[params.social]]
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UC9l_27z0J81ZiwOoc_-uQGg"

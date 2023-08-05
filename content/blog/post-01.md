@@ -1,11 +1,11 @@
 ---
 # If posted on same day, change time. If same time and same day, sorted by title (alphabetically and numerically)
-title: "Most Recent (16)"
-date: 2022-04-16T10:07:47+06:00
+title: "1"
+date: 2022-04-01T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/featured-post/post-1.jpg"
+image: "images/post/post-2.jpg"
 
 # meta description
 description: "this is meta description"
