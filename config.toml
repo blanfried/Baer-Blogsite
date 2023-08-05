@@ -75,6 +75,11 @@ name = "Contact"
 URL = "contact/"
 weight = 3
 
+[[menu.footer]]
+name = "Privacy Policy"
+URL = "privacypolicy/"
+weight = 4
+
 
 #################### default parameters ################################
 [params]
@@ -104,10 +109,8 @@ enable = true
 ############################ news letter ########################
 [params.newsletter]
 enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
-mailchimpFormUrl = "https://gmail.us17.list-manage.com/subscribe/post?u=cf2d0e948dfb7dd38e3061fff&amp;id=d7415c1f96&amp;f_id=005967e0f0"
-mailchimpFormKey = "b_cf2d0e948dfb7dd38e3061fff_d7415c1f96"
+title = "Join My Newsletter"
+content = "If you would like to follow along and receive updates on my new videos and blogs, subscribe to the newsletter! *Check your spam if you do not receive the confirmation email.*"
 
 # cookies
 [params.cookies]
