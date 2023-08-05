@@ -19,7 +19,7 @@ tags:
 
 # post type
 # type: "post"
-type: "featured"
+type: "post"
 ---
 
 # Heading 1

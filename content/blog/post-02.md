@@ -21,7 +21,7 @@ tags:
   - "Fun"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 # Heading 1

@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://baerlanfried.com"
 languageCode = "en-us"
-title = "Welcome To | Baer Blog"
+title = "Baer Blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
