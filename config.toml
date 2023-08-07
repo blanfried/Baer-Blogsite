@@ -137,12 +137,12 @@ link = "https://www.facebook.com/baer.lanfried/"
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://www.linkedin.com/in/baer-lanfried-488ab61aa/"
+link = "https://github.com/blanfried"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/blanfried"
+link = "https://www.linkedin.com/in/baer-lanfried-488ab61aa/"
 
 [[params.social]]
 title = "youtube"
