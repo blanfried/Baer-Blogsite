@@ -1,6 +1,6 @@
 ---
 # If posted on same day, change time. If same time and same day, sorted by title (alphabetically and numerically)
-title: "8"
+title: "Coming Soon!"
 date: 2022-04-08T10:07:47+06:00
 draft: false
 

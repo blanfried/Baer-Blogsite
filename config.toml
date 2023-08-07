@@ -80,6 +80,11 @@ name = "Privacy Policy"
 URL = "privacypolicy/"
 weight = 4
 
+[[menu.footer]]
+name = "Terms & Conditions"
+URL = "termsandconditions/"
+weight = 4
+
 
 #################### default parameters ################################
 [params]
@@ -87,7 +92,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Baer Lanfried"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
@@ -95,7 +100,7 @@ mobile = "+1 (949) 439-8667"
 email = "blanfried@gmail.com"
 location = "Brooklyn, New York"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved | Adapted by Lanfried Web Services |"
 
 # Preloader
 [params.preloader]
