@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://baerlanfried.com"
+baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
 languageCode = "en-us"
 title = "Baer Blog"
 theme = "liva-hugo"
