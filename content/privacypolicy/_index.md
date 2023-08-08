@@ -36,4 +36,4 @@ The security of your personal information is important to us. While we strive to
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 8. Contact Us
 For any questions about this Privacy Policy or to exercise any of your rights, please contact us at:
-[Baer Blog Contact Information](http://localhost:1313/contact/)
+[Baer Blog Contact Information](/contact/)

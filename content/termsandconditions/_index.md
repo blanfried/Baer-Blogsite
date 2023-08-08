@@ -32,4 +32,4 @@ These Terms are governed by and construed in accordance with the laws of The USA
 We reserve the right to modify or replace these Terms at any time. It's your responsibility to check these Terms periodically for changes.
 9. Contact Us
 If you have any questions about these Terms, please contact us at:
-[Baer Blog Contact Information](http://localhost:1313/contact/)
+[Baer Blog Contact Information](/contact/)
