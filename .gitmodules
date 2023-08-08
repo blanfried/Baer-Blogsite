@@ -1,3 +1,4 @@
-[submodule "themes/liva-hugo"]
-    path = themes/liva-hugo
-    url = https://github.com/blanfried/Baer-Blogsite
+# [submodule "themes/liva-hugo"]
+#     path = themes/liva-hugo
+#     url = https://github.com/blanfried/Baer-Blogsite
+# git submodule deinit -f themes/liva-hugo
