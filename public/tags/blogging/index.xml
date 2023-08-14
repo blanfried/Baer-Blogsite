@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogging on Baer Blog</title>
-    <link>http://localhost:1313/tags/blogging/</link>
+    <link>http://www.baerlanfriedblog.com/tags/blogging/</link>
     <description>Recent content in Blogging on Baer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="http://localhost:1313/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="http://www.baerlanfriedblog.com/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Purpose of This Blog</title>
-      <link>http://localhost:1313/blog/post-01/</link>
+      <link>http://www.baerlanfriedblog.com/blog/post-01/</link>
       <pubDate>Sun, 06 Aug 2023 10:07:47 +0600</pubDate>
       
-      <guid>http://localhost:1313/blog/post-01/</guid>
+      <guid>http://www.baerlanfriedblog.com/blog/post-01/</guid>
       <description>Getting To It Hey there. Thanks for dropping by. I guess you’re wondering what this corner of the internet is all about, huh?</description>
     </item>
     

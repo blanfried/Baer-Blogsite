@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy Policy on Baer Blog</title>
-    <link>http://localhost:1313/privacypolicy/</link>
+    <link>http://www.baerlanfriedblog.com/privacypolicy/</link>
     <description>Recent content in Privacy Policy on Baer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="http://localhost:1313/privacypolicy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="http://www.baerlanfriedblog.com/privacypolicy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

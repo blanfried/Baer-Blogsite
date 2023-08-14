@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Baer Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://www.baerlanfriedblog.com/categories/</link>
     <description>Recent content in Categories on Baer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 10:07:47 +0600</lastBuildDate><atom:link href="http://www.baerlanfriedblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts</title>
-      <link>http://localhost:1313/categories/thoughts/</link>
+      <link>http://www.baerlanfriedblog.com/categories/thoughts/</link>
       <pubDate>Sun, 06 Aug 2023 10:07:47 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/thoughts/</guid>
+      <guid>http://www.baerlanfriedblog.com/categories/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poetry</title>
-      <link>http://localhost:1313/categories/poetry/</link>
+      <link>http://www.baerlanfriedblog.com/categories/poetry/</link>
       <pubDate>Sat, 16 Apr 2022 10:07:47 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/poetry/</guid>
+      <guid>http://www.baerlanfriedblog.com/categories/poetry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Language</title>
-      <link>http://localhost:1313/categories/language/</link>
+      <link>http://www.baerlanfriedblog.com/categories/language/</link>
       <pubDate>Fri, 15 Apr 2022 10:07:47 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/language/</guid>
+      <guid>http://www.baerlanfriedblog.com/categories/language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story</title>
-      <link>http://localhost:1313/categories/story/</link>
+      <link>http://www.baerlanfriedblog.com/categories/story/</link>
       <pubDate>Wed, 06 Apr 2022 10:07:47 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/story/</guid>
+      <guid>http://www.baerlanfriedblog.com/categories/story/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/categories/productivity/</link>
+      <link>http://www.baerlanfriedblog.com/categories/productivity/</link>
       <pubDate>Tue, 05 Apr 2022 10:07:47 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/productivity/</guid>
+      <guid>http://www.baerlanfriedblog.com/categories/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entrepreneurship</title>
-      <link>http://localhost:1313/categories/entrepreneurship/</link>
+      <link>http://www.baerlanfriedblog.com/categories/entrepreneurship/</link>
       <pubDate>Mon, 04 Apr 2022 10:07:47 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/entrepreneurship/</guid>
+      <guid>http://www.baerlanfriedblog.com/categories/entrepreneurship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/</link>
+      <link>http://www.baerlanfriedblog.com/categories/travel/</link>
       <pubDate>Sun, 03 Apr 2022 10:07:47 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/travel/</guid>
+      <guid>http://www.baerlanfriedblog.com/categories/travel/</guid>
       <description></description>
     </item>
     
