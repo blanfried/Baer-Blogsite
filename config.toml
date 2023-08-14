@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://localhost:1313/"
+baseURL = "http://www.baerlanfriedblog.com/"
 languageCode = "en-us"
 title = "Baer Blog"
 theme = "liva-hugo"
