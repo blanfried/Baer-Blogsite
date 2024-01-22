@@ -22,4 +22,4 @@ tags:
 type: "featured"
 ---
 
-I desire to create beauty...
+I desire to create beauty... (will finish soon)
