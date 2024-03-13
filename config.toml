@@ -93,14 +93,14 @@ home = "Home"
 # Meta data
 description = "This is meta description"
 author = "Baer Lanfried"
-# Google Analitycs
+# Google Analytics
 googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = "+33 06 52 45 44 72"
 email = "blanfried@gmail.com"
 location = "Brooklyn, New York"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved | Adapted by Lanfried Web Services |"
+copyright = "Copyright &copy; 2024 Baer Lanfried"
 
 # Preloader
 [params.preloader]
