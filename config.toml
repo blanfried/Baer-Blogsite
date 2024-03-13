@@ -22,6 +22,8 @@ URL = "plugins/slick/slick.css"
 URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
 URL = "plugins/venobox/venobox.css"
+[[params.plugins.css]]
+URL = "plugins/font-awesome/css/all.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -126,7 +128,7 @@ expire_days = 2
 ############################# social site ########################
 [[params.social]]
 title = "Youtube"
-icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-youtube"
 link = "https://www.youtube.com/@BaerLanfried"
 
 [[params.social]]
