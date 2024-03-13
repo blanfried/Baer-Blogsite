@@ -90,7 +90,7 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.svg"
 home = "Home"
 # Meta data
 description = "This is meta description"
@@ -127,21 +127,36 @@ expire_days = 2
 
 ############################# social site ########################
 [[params.social]]
+title = "Linkedin"
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/in/baer-lanfried-488ab61aa/"
+
+[[params.social]]
+title = "Github"
+icon = "fab fa-github"
+link = "http://github.com/blanfried"
+
+[[params.social]]
 title = "Youtube"
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/@BaerLanfried"
 
 [[params.social]]
 title = "Facebook"
-icon = "ti-facebook"
-link = "https://www.facebook.com/baer.lanfried/"
+icon = "fab fa-facebook"
+link = "https://www.facebook.com/baer.lanfried"
 
 [[params.social]]
-title = "Github"
-icon = "ti-github"
-link = "https://github.com/blanfried"
+title = "Instagram"
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/baerlanfried/"
 
 [[params.social]]
-title = "Linkedin"
-icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/baer-lanfried-488ab61aa"
+title = "Medium"
+icon = "fab fa-medium"
+link = "https://medium.com/@baerlanfried_99543"
+
+[[params.social]]
+title = "Substack"
+icon = "fa-solid fa-bookmark"
+link = "https://baerlanfried.substack.com/"
