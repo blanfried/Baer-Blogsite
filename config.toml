@@ -2,7 +2,7 @@
 baseURL = "http://www.baerlanfriedblog.com/"
 languageCode = "en-us"
 title = "Baer Blog"
-theme = "liva-hugo"
+theme = "baer-blog"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
