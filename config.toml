@@ -96,9 +96,9 @@ author = "Baer Lanfried"
 # Google Analytics
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "+33 06 52 45 44 72"
+mobile = ""
 email = "blanfried@gmail.com"
-location = "Brooklyn, New York"
+location = "San Diego, CA"
 # copyright
 copyright = "Copyright &copy; 2024 Baer Lanfried"
 
@@ -125,21 +125,21 @@ expire_days = 2
 
 ############################# social site ########################
 [[params.social]]
-title = "youtube"
+title = "Youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-link = "https://www.youtube.com/channel/UC9l_27z0J81ZiwOoc_-uQGg"
+link = "https://www.youtube.com/@BaerLanfried"
 
 [[params.social]]
-title = "facebook"
+title = "Facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/baer.lanfried/"
 
 [[params.social]]
-title = "github"
+title = "Github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/blanfried"
 
 [[params.social]]
-title = "linkedin"
+title = "Linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/baer-lanfried-488ab61aa"
