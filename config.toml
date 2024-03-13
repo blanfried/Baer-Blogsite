@@ -131,20 +131,20 @@ title = "Linkedin"
 icon = "fab fa-linkedin"
 link = "https://www.linkedin.com/in/baer-lanfried-488ab61aa/"
 
-[[params.social]]
-title = "Github"
-icon = "fab fa-github"
-link = "http://github.com/blanfried"
+# [[params.social]]
+# title = "Github"
+# icon = "fab fa-github"
+# link = "http://github.com/blanfried"
 
 [[params.social]]
 title = "Youtube"
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/@BaerLanfried"
 
-[[params.social]]
-title = "Facebook"
-icon = "fab fa-facebook"
-link = "https://www.facebook.com/baer.lanfried"
+# [[params.social]]
+# title = "Facebook"
+# icon = "fab fa-facebook"
+# link = "https://www.facebook.com/baer.lanfried"
 
 [[params.social]]
 title = "Instagram"
