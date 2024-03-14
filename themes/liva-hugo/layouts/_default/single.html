@@ -22,7 +22,9 @@
         <div class="content mb-5">
           {{ .Content }}
         </div>
-
+        <div class="">
+        <a href="{{ .Params.Link | absURL }}" target="_blank" rel="noopener noreferrer">See the {{ .Params.Source }} article!</a>
+        </div>
         <!-- comments -->
         {{ template "_internal/disqus.html" . }}
       </div>

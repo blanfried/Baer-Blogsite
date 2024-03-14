@@ -3,6 +3,8 @@
 title: "The Artful Individual"
 date: 2024-02-05T10:07:47+06:00
 draft: false
+link: https://medium.com/@baerlanfried_99543/the-artful-individual-53c894153824
+source: "Medium"
 
 # post thumb
 image: "images/featured-post/2-ArtfulIndividual.svg"
@@ -23,7 +25,7 @@ tags:
 # post type
 type: "featured"
 ---
-
+---
 I desire to create art. More primary, however, is my desire to be art.
 
 Being is the foundation of art. **We first create selves of art, then we create works of art.**
@@ -49,3 +51,5 @@ The artful individual sees themselves always.
 They are a living embodiment of aesthetic.
 
 They are the fully-alive, and through them, empathy and loneliness live and die.
+
+---
