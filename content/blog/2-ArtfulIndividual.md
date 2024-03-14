@@ -12,10 +12,12 @@ description: "The Artful Individual"
 
 # taxonomies
 categories: 
-  - "thoughts"
+  - "philosophy"
 tags:
   - "Art"
-  - "Poetry"
+  - "Creativity"
+  - "Life"
+  - "Self Improvement"
 
 
 # post type
@@ -24,7 +26,7 @@ type: "featured"
 
 I desire to create art. More primary, however, is my desire to be art.
 
-Being is the foundation of art. We first create selves of art, then we create works of art.
+Being is the foundation of art. **We first create selves of art, then we create works of art.**
 
 The occupation of an artist is to create an interior of beauty so as to create things which are beautiful, in whichever medium they choose.
 
@@ -38,7 +40,7 @@ The true artist is surprised by the beauty they create and are wont to scorn it.
 
 Once petrified, the artist may look upon it again and appreciate it in retrospect, as one appreciates a more youthful version of oneself in a photo.
 
-The artful individual must create art. It spills from them. The desire to release what grows inside expands until a medium is found to express it. Discourse is one such medium, but it is one of peanuts and breadcrumbs. No, the artful person begins to crave a work. Something where they might crystallize themselves or hide a portion of their soul.
+**The artful individual must create art.** It spills from them. The desire to release what grows inside expands until a medium is found to express it. Discourse is one such medium, but it is one of peanuts and breadcrumbs. No, the artful person begins to crave a work. Something where they might crystallize themselves or hide a portion of their soul.
 
 It is a painful process, but it brings supreme satisfaction. "I will not be forgotten." "I am more now that I am less." "One might find themselves in me and we may rejoice together in our unknown friendship".
 
