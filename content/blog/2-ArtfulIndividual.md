@@ -3,8 +3,18 @@
 title: "The Artful Individual"
 date: 2024-02-05T10:07:47+06:00
 draft: false
-link: https://medium.com/@baerlanfried_99543/the-artful-individual-53c894153824
-source: "Medium"
+
+source1: "Medium"
+icon1: "fab fa-medium"
+link1: https://medium.com/@baerlanfried_99543
+
+source2: "Substack"
+icon2: "fa-solid fa-bookmark"
+link2: https://baerlanfried.substack.com/
+
+source3: "LinkedIn"
+icon3: "fab fa-linkedin"
+link3: https://www.linkedin.com/in/baer-lanfried-488ab61aa/
 
 # post thumb
 image: "images/featured-post/2-ArtfulIndividual.svg"
