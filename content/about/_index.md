@@ -13,4 +13,4 @@ description: "this is meta description"
 type : "about"
 ---
 
-"Currently living in New York City after having lived in the UK and France for the past six years. Working as a part-time bookseller and looking for work as a writer, editor, or software developer."
+"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live semi-nomadically but principally between California (with my family) and Wales (with my girlfriend). I'm building my business (Osows.com) and online presence as a writer and tutor."
