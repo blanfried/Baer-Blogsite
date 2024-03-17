@@ -83,7 +83,7 @@ URL = "privacy/"
 weight = 4
 
 [[menu.footer]]
-name = "Terms & Conditions"
+name = "Terms of Service"
 URL = "terms/"
 weight = 4
 
