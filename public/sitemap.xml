@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.baerlanfriedblog.com/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.baerlanfriedblog.com/privacy/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.baerlanfriedblog.com/blog/</loc>
     <lastmod>2024-02-05T10:07:47+06:00</lastmod>
   </url><url>
     <loc>http://www.baerlanfriedblog.com/tags/art/</loc>
-    <lastmod>2024-02-05T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>http://www.baerlanfriedblog.com/</loc>
     <lastmod>2024-02-05T10:07:47+06:00</lastmod>
   </url><url>
     <loc>http://www.baerlanfriedblog.com/categories/</loc>
@@ -122,19 +125,16 @@
     <loc>http://www.baerlanfriedblog.com/categories/travel/</loc>
     <lastmod>2022-04-03T10:07:47+06:00</lastmod>
   </url><url>
+    <loc>http://www.baerlanfriedblog.com/terms/</loc>
+    <lastmod>2020-06-05T15:04:04+02:00</lastmod>
+  </url><url>
     <loc>http://www.baerlanfriedblog.com/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>http://www.baerlanfriedblog.com/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>http://www.baerlanfriedblog.com/privacypolicy/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
     <loc>http://www.baerlanfriedblog.com/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>http://www.baerlanfriedblog.com/termsandconditions/</loc>
-    <lastmod>2012-10-29T13:49:23+06:00</lastmod>
   </url>
 </urlset>
