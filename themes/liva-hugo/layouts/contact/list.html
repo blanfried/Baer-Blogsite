@@ -8,18 +8,20 @@
         <div class="content mb-4">
           {{ .Content }}
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
+          <div class="col-lg-4 small-post-border"></div>
           <!-- <div class="col-lg-4 small-post-border">
             <i class="ti-mobile h1 text-primary"></i>
             <h5 class="font-weight-light my-3">Phone</h5>
             {{ .Site.Params.mobile }}
-          </div>
+          </div> -->
           <div class="col-lg-4 small-post-border">
             <i class="ti-email h1 text-primary"></i>
             <h5 class="font-weight-light my-3">Email</h5>
             {{ .Site.Params.email }}
           </div>
-          <div class="col-lg-4 small-post-border">
+          <div class="col-lg-4 small-post-border" ></div>
+          <!-- <div class="col-lg-4 small-post-border">
             <i class="ti-location-pin h1 text-primary"></i>
             <h5 class="font-weight-light my-3">Location</h5>
             {{ .Site.Params.location | markdownify }}
@@ -51,7 +53,7 @@
             <textarea name="message" id="message" class="form-control mb-4" placeholder="Your Message"></textarea>
           </div>
           <div class="col-12">
-            <button type="submit" class="btn btn-primary">send message</button>
+            <button type="submit" class="btn btn-primary mb-3 mt-2">send message</button>
           </div>
           <div>
               <label>By clicking "Send Message" I agree to the <a href="http://www.baerlanfriedblog.com/privacy/">Privacy Policy</a> & <a href="http://www.baerlanfriedblog.com/terms/">Terms of Service</a> and understand that my data will be processed by Formspree.</label>
