@@ -5,7 +5,7 @@ date: 2024-02-08T00:00:00
 description: "this is meta description"
 
 # type
-type : "about"
+type : "policy"
 ---
 
 

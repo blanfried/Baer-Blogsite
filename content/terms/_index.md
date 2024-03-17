@@ -6,7 +6,7 @@ draft: false
 description: "this is meta description"
 
 # type
-type : "about"
+type : "policy"
 ---
 
 
