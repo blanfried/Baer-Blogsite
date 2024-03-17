@@ -79,12 +79,12 @@ weight = 3
 
 [[menu.footer]]
 name = "Privacy Policy"
-URL = "privacypolicy/"
+URL = "privacy/"
 weight = 4
 
 [[menu.footer]]
 name = "Terms & Conditions"
-URL = "termsandconditions/"
+URL = "terms/"
 weight = 4
 
 
