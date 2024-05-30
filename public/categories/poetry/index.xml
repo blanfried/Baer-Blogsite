@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poetry on Baer Blog</title>
+    <title>poetry on Baer Blog</title>
     <link>http://www.baerlanfriedblog.com/categories/poetry/</link>
-    <description>Recent content in Poetry on Baer Blog</description>
+    <description>Recent content in poetry on Baer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 10:07:47 +0600</lastBuildDate><atom:link href="http://www.baerlanfriedblog.com/categories/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 10:07:47 +0600</lastBuildDate><atom:link href="http://www.baerlanfriedblog.com/categories/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let Me Drink the Fields</title>
+      <link>http://www.baerlanfriedblog.com/blog/3-letmedrinkfields/</link>
+      <pubDate>Sun, 29 May 2022 10:07:47 +0600</pubDate>
+      
+      <guid>http://www.baerlanfriedblog.com/blog/3-letmedrinkfields/</guid>
+      <description>Let me drink the fields Let the clouds be my eyes Let me open my arms And capture the skies</description>
+    </item>
+    
     <item>
       <title>Coming Soon!</title>
       <link>http://www.baerlanfriedblog.com/blog/post-016/</link>
